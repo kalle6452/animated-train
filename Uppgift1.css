@@ -4,3 +4,16 @@ background-color: red;
 h1 {
 color: green;
 }	
+.serif {
+  font-family: Arial;
+}
+h1 {
+  font-size: 22px;
+}
+h2, p {
+  background-color: black;
+  text-align:center;
+}
+div {
+  padding: 150px;
+}
