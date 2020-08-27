@@ -11,3 +11,18 @@ h1, h2, h3, p {
 h1 {
 	font-size: 22px;
 }
+h3, p3 {
+	color: grey;
+}
+h3, p3 {
+	text-align: center;
+}
+h3, p3 {
+	background-color: white;
+	}
+p5 {
+	text-align: right;
+}
+div {
+	border: 25px blue;
+}
