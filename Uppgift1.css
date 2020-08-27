@@ -1,19 +1,29 @@
 body {
-background-color: red;
+  background-color: red;
 }
-h1 {
-color: green;
-}	
+h1, h2, h3, p {
+	color: green;
+}
+
 .serif {
-  font-family: Arial;
+	font-family: "Times New Roman", Times, serif;
 }
 h1 {
-  font-size: 22px;
+	font-size: 22px;
 }
-h2, p {
-  background-color: black;
-  text-align:center;
+h3, p3 {
+	color: grey;
+}
+h3, p3 {
+	text-align: center;
+}
+h3, p3 {
+	background-color: white;
+	}
+p5 {
+	text-align: right;
 }
 div {
-  padding: 150px;
+	border: 25px blue;
 }
+
