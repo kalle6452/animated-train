@@ -1,7 +1,7 @@
 body {
   background-color: red;
 }
-h1, h2, h3, p {
+h1, h2, h3, p, p5 {
 	color: green;
 }
 
@@ -12,18 +12,23 @@ h1 {
 	font-size: 22px;
 }
 h3, p3 {
+  text-align: center;
+}
+h3, p3 {
 	color: grey;
 }
 h3, p3 {
-	text-align: center;
-}
-h3, p3 {
-	background-color: white;
+background-color: white;
 	}
-p5 {
-	text-align: right;
+  p5 {
+    text-align: right;
+    }
+a:link, visited {
+  text-decoration: none;
+}
+a:hover, active {
+  text-decoration: none;
 }
 div {
-	border: 25px blue;
+border: 1px solid black;
 }
-
