@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head lang="sv">
+<head>
+<meta charset="utf-8">
+<title>Tabeller</title>
+<link rel="stylesheet" href="Uppgifttabeller.css">
+</head>
+<body>
+<h1>Kalles tabell</h1>
+  <div class="grid-container">
+    <div class="grid-item">Namn</div>
+    <div class="grid-item">År</div>
+    <div class="grid-item">Klockfrekvens</div>
+    <div class="grid-item">Antal transistorer</div>
+    <div class="grid-item">Intel 8088</div>
+    <div class="grid-item">1979</div>
+    <div class="grid-item">4,77 MHz</div>
+    <div class="grid-item">29000</div>
+    <div class="grid-item">Intel 80386DX</div>
+    <div class="grid-item">1985</div>
+    <div class="grid-item">16 MHz</div>
+    <div class="grid-item">275000</div>
+    <div class="grid-item">Pentium</div>
+    <div class="grid-item">1993</div>
+    <div class="grid-item">60 MHz</div>
+    <div class="grid-item">3100000</div>
+    <div class="grid-item">Core i7</div>
+    <div class="grid-item">2008</div>
+    <div class="grid-item">3,33 GHz</div>
+    <div class="grid-item">781000000</div>
+<h2>Intelprocessorer</h2>
+  </div>
+</body>
+</html>
