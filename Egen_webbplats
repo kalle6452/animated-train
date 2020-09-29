@@ -1,0 +1,17 @@
+<!--DOCTYPE visar att det är ett html5 dokument.-->
+<!DOCTYPE html>
+<!--html berättar var html-koden slutar och startar.-->
+<html>
+<!--Berättar att innehållet är på svenska.-->
+<head lang="sv">
+<!--I head finns innehållet som inte syns för användaren på hemsidan.-->
+<head>
+<!--Gör att websidan förstår tecknen.-->
+<meta charset="utf-8">
+<!--Detta länkar till css dokumentet.-->
+<link rel="stylesheet" href="Egen_webplats.css">
+<!--Här slutar head-taggen.-->
+</head>
+<!--Här börjar det som användaren kan se.-->
+<body>
+<h1>Index</h1>
