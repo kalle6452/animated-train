@@ -4,14 +4,35 @@
 <html>
 <!--Berättar att innehållet är på svenska.-->
 <head lang="sv">
-<!--I head finns innehållet som inte syns för användaren på hemsidan.-->
+<!--Data om HTML-dokumentet.-->
 <head>
 <!--Gör att websidan förstår tecknen.-->
 <meta charset="utf-8">
+<!--Detta är vad hemsidan heter.-->
+<title>index</title>
 <!--Detta länkar till css dokumentet.-->
-<link rel="stylesheet" href="Egen_webplats.css">
-<!--Här slutar head-taggen.-->
+<link rel="stylesheet" href="Egen_webbsida.css">
+<!--Här slutar head-taggen, när det är en / framför taggen visar det att taggen
+slutar, detta gäller på alla taggar.-->
 </head>
 <!--Här börjar det som användaren kan se.-->
 <body>
-<h1>Index</h1>
+<!--Här lägger jag till en rubrik.-->
+  <h1>Luftpistolskytte</h1>
+<!--Här lägger jag till en bild på en sportskytt.-->
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-eeVjFRCjWQ%2Fhqdefault.jpg&f=1&nofb=1" alt=Sportskytt>
+<!--Här lägger jag till en text om hur sportskytte går till.-->
+<p>Luftpistolskytte är en sport som skjuts med en luftpistol i kaliber .177 (4,5mm)
+  och som sjuts på ett avstånd av 10meter. En tävling är 60skott och man har 75minuter
+  på sig att skjuta dessa skott plus att man har 15 minuters provskottstid där man kan
+  skjuta ett obegränsat antal skott.
+</p>
+<p>För mer information:</p>
+<!--Här länkar jag till en extern hemsida, nämligen Wikipedia.-->
+<a href ="https://en.wikipedia.org/wiki/ISSF_10_meter_air_pistol">Kom till Wikipedia</a>
+<!--Här länkar jag till nästa sida-->
+<p>För att komma till nästa sida</p>
+<a href="file:///C:/Users/Kalle/AppData/Local/atom/app-1.50.0/Egen_webbsida_huvuddel.html">Kom till nästa sida.</a>
+
+</body>
+</html>
